@@ -5,7 +5,7 @@
     "dev": "vite --host --port 1337",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vc --production --token=QEIFan7dyGb00KPqhnQ2dOve"
+    "deploy": "vc --prod --token=QEIFan7dyGb00KPqhnQ2dOve"
   },
   "dependencies": {
     "react": "^18.2.0",
