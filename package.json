@@ -5,7 +5,7 @@
     "dev": "vite --host --port 1337",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vc --prod --token=QEIFan7dyGb00KPqhnQ2dOve"
+    "deploy": "vc --prod --token=$VERCEL_TOKEN"
   },
   "dependencies": {
     "react": "^18.2.0",
